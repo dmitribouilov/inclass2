@@ -1,0 +1,46 @@
+.Left {
+    border:  solid 1cm cornflowerblue;
+
+    width: 10cm;
+
+    margin-left: 1cm ;
+
+    float: left;
+
+    padding: 3px;
+
+    margin: 10px;
+    
+
+    text-align: center;
+
+    
+
+  }
+
+
+  .Right{
+
+    margin-right: 5cm;
+
+        float: inherit;
+
+    text-align: center;
+
+  }
+
+  ul {list-style-type: none;}
+
+  .video{
+
+    position: relative;
+
+    float: left;
+
+    padding: 10px;
+
+    border: purple solid 3px;
+  }
+
+  h1 {color: tomato;}
+  h2 {color: yellowgreen}
